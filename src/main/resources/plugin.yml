@@ -1,0 +1,8 @@
+name: WarzoneCannonFix
+version: ${project.version}
+main: dev.pace.warzonecannonfix.WarzoneCannonFix
+api-version: 1.13
+authors: [ Pace ]
+description: Simple plugin that prevents sand going into warzone.
+website: https://pace.is-a.dev/
+depend: [Factions]
